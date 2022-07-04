@@ -1,0 +1,20 @@
+2022-06-30 16:06:05,728 INFO o.a.j.u.JMeterUtils: Setting Locale to zh_CN
+2022-06-30 16:06:05,752 INFO o.a.j.JMeter: Loading user properties from: D:\Jmeter\apache-jmeter-5.5\bin\user.properties
+2022-06-30 16:06:05,753 INFO o.a.j.JMeter: Loading system properties from: D:\Jmeter\apache-jmeter-5.5\bin\system.properties
+2022-06-30 16:06:05,766 INFO o.a.j.JMeter: Copyright (c) 1998-2022 The Apache Software Foundation
+2022-06-30 16:06:05,766 INFO o.a.j.JMeter: Version 5.5
+2022-06-30 16:06:05,766 INFO o.a.j.JMeter: java.version=1.8.0_333
+2022-06-30 16:06:05,766 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2022-06-30 16:06:05,766 INFO o.a.j.JMeter: os.name=Windows 11
+2022-06-30 16:06:05,766 INFO o.a.j.JMeter: os.arch=amd64
+2022-06-30 16:06:05,769 INFO o.a.j.JMeter: os.version=10.0
+2022-06-30 16:06:05,769 INFO o.a.j.JMeter: file.encoding=GBK
+2022-06-30 16:06:05,769 INFO o.a.j.JMeter: java.awt.headless=null
+2022-06-30 16:06:05,769 INFO o.a.j.JMeter: Max memory     =1073741824
+2022-06-30 16:06:05,769 INFO o.a.j.JMeter: Available Processors =8
+2022-06-30 16:06:05,774 INFO o.a.j.JMeter: Default Locale=English (EN)
+2022-06-30 16:06:05,774 INFO o.a.j.JMeter: JMeter  Locale=Chinese (China)
+2022-06-30 16:06:05,774 INFO o.a.j.JMeter: JMeterHome=D:\Jmeter\apache-jmeter-5.5
+2022-06-30 16:06:05,775 INFO o.a.j.JMeter: user.dir  =D:\PyCharm\pythonProject\UTEST
+2022-06-30 16:06:05,775 INFO o.a.j.JMeter: PWD       =D:\PyCharm\pythonProject\UTEST
+2022-06-30 16:06:05,777 INFO o.a.j.JMeter: IP: 10.100.83.141 Name: chenN FullName: chenN

@@ -1,0 +1,9 @@
+-
+  name: $csv{name}
+  request:
+    method: get
+    url: http://api.wpbom.com/api/daygas.php
+    data:
+      msg: 厦门
+      b: 3
+  validate: None

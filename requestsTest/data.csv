@@ -1,0 +1,4 @@
+name,method,url,msg,b,validate
+天气查询,get,http://api.wpbom.com/api/daygas.php,厦门,3,None
+天气查询,get,http://api.wpbom.com/api/daygas.php,北京,3,None
+天气查询,get,http://api.wpbom.com/api/daygas.php,深圳,2,None

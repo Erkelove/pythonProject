@@ -1,0 +1,2 @@
+name,method,url,msg,b
+天气查询,get,http://api.wpbom.com/api/daygas.php,厦门,3

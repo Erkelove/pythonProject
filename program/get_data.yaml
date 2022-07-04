@@ -1,0 +1,10 @@
+- name: $csv{name}
+  parameters:
+    name-method-url-msg-b: program/get_data.csv
+  request:
+    method: $csv{method}
+    url: $csv{url}
+    data:
+      msg: $csv{msg}
+      b: $csv{b}
+  validate: True
